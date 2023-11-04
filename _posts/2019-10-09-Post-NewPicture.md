@@ -12,12 +12,11 @@ People in the picture are:
 
 [my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+learning and studying and watching movies when i am bored.
 
 
 
 ![alt text](../assets/images/grouppic.jpg "Team Picture")
 
 ---
-**Test**: This is atest
+**Test**: This is a test
