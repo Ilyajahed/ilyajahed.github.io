@@ -9,13 +9,12 @@ comments: false
 ---
 
 
-# ekhteshash
+# amn o aman
 
-werwe
-rwe
+war in middle east maybe in few days later.
 
 ## Tehran
-lsdfksd
+here i am in science and industry university of iran.
 
 ### Azadi
 ### Enghelab
@@ -27,7 +26,7 @@ My favorite website is [yahoo](http://www.yahoo.com).
 
 
 ## Esfahan
-ldkfjs
+nesf jahan if there was not tabriz in iran.
 
 ![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
 
