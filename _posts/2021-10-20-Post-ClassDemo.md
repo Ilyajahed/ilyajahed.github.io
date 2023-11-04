@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: مصاحبه با آقای بیات‌خانی
+title: نیازمند انجام مصاحبه در اینده نزدیک با شخص علمی 
 ---
 
 ## This is my team at Microsoft
@@ -12,8 +12,7 @@ People in the picture are:
 
 [my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+I can search there and learn coding and watch some movies when Im bored.
 
 
 
