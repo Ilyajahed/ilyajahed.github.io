@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: در حال یادگیری 
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- We are wtiting some code
+- We must build our website
+- We gonna push 
