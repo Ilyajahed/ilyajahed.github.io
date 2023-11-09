@@ -9,7 +9,7 @@ comments: false
 ---
 
 
-# amn o aman
+# likely to develop and expansion
 
 war in middle east maybe in few days later.
 
@@ -19,22 +19,16 @@ here i am in science and technology university of iran.
 ### Azadi
 
 
-- mored 1
-- mored 2
+- i have graduated in shahidmadani highschool in tabriz and i have entered the university since 2023/11/9.
+- these days of engaged and busy with my university lessons and dont have any time to take enough rest.
 
-My favorite website is [yahoo](http://www.yahoo.com).
+My favorite website is [google](http://www.google.com).
 
 
 ## Tabriz
-i have graduated there and its my loving city.
+My loving city.
 
 
-![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
+![incredible nature](https://www.jowhareh.com/images/Jowhareh/galleries_4/poster_0ea32a9d-da32-4f84-aa77-6196b4eac2db.jpeg)
 
 
-<iframe width="1691" height="680" src="https://www.youtube.com/embed/LOTtWzX3Wp4" title="The STRANGE Reason He's The World's Best Climber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-|  Number | Name |
-|---------|------|
-|1        | Ali  |
