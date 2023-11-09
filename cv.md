@@ -14,10 +14,10 @@ comments: false
 war in middle east maybe in few days later.
 
 ## Tehran
-here i am in science and industry university of iran.
+here i am in science and technology university of iran.
 
 ### Azadi
-### Enghelab
+
 
 - mored 1
 - mored 2
@@ -25,8 +25,9 @@ here i am in science and industry university of iran.
 My favorite website is [yahoo](http://www.yahoo.com).
 
 
-## Esfahan
-nesf jahan if there was not tabriz in iran.
+## Tabriz
+i have graduated there and its my loving city.
+
 
 ![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
 
