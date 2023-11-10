@@ -3,16 +3,15 @@ layout: posts
 title: Test Post
 ---
 
-## This is my team at Microsoft
+## This is my friends in 12th grade at school
 People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+- hamzi
+- ebrahimi 
+- ranjbari
+- khoshravan
+- me
 
 [my favorite website](http://www.google.com)
-
-learning and studying and watching movies when i am bored.
 
 
 
