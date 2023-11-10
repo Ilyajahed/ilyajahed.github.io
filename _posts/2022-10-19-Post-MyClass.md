@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: در حال یادگیری 
+title: attending classes in the university 
 ---
 
-- We are wtiting some code
-- We must build our website
-- We gonna push 
+- We are writing some code.
+- We must build our website.
+- We  are gonna learn python. 
