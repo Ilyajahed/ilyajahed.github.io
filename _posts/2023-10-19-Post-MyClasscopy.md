@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:رزومه 
+title: رزومه 
 ---
 
 
