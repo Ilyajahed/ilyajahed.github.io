@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: نیازمند انجام مصاحبه در اینده نزدیک با شخص علمی 
+title:  
 ---
 
 ## This is my classmates at school
