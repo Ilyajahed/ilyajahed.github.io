@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: تکالیف کلاسی من: 
+title: تکالیف کلاسی من
 ---
 
 -my homework:
