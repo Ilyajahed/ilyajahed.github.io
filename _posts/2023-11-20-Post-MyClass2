@@ -1,0 +1,48 @@
+---
+layout: posts
+title: تکالیف درسی 
+---
+
+-this is my fractal tree which is actually one of my first homework for university. to be done with this homework you -should be acquainted with recursive functions and some libraries in python.
+-
+-
+
+
+<html>
+<title>python fractal tree</title>
+
+
+
+<h1 style=" font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;color:blue; background-color:rgb(230, 146, 230)">
+
+python fractal tree
+
+</h1>
+
+
+<body>
+
+
+<img src="Annotation 2023-11-17 221439.png"
+
+
+<div style="font-weight: bold;font-size:larger;color: rgb(26, 19, 11)">
+    to see my triangle fractal click
+<a href="file:///C:/git/FCO2O31-True/s9/triangle.html">
+
+   here
+
+
+
+
+</a>
+.
+</div>
+
+
+<a href="file:///C:/git/FCO2O31-True/s9/triangle.html"
+
+
+
+
+</body>
