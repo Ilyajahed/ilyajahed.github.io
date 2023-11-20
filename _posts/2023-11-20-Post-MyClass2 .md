@@ -3,7 +3,7 @@ layout: posts
 title: learning sources 
 ---
 
--my homeworks
+-my homework:
 -
 -
 
