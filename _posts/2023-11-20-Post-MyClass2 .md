@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: learning sources 
+title: تکالیف کلاسی من: 
 ---
 
 -my homework:
