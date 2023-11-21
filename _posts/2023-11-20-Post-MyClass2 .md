@@ -8,8 +8,8 @@ title: تکالیف کلاسی من
 -
 
 
-![my tree fractal](Annotation 2023-11-17 221439.png)
-![my triangle fractal](fractaltriangle.jpg)
+![my tree fractal](../assets/images/tree fractal.png)
+![my triangle fractal](../assets/images/fractaltriangle.jpg)
 
 
  
