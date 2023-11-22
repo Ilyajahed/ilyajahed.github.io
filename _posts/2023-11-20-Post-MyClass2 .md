@@ -12,6 +12,7 @@ title: تکالیف کلاسی من
 
 <br>
 <br>
+
 ![my tree fractal](../assets/images/tree fractal.png)
 ![my triangle fractal](../assets/images/fractaltriangle.jpg)
 
