@@ -14,8 +14,8 @@ main:
     url: /gallery/
   - title: "Blog"
     url: /blog/
-  - title: "my university"
-    url: http://ce.iust.ac.ir/files/dept_ce/files/Picture1.png
+  - title: "calender"
+    url: /my calendar/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
