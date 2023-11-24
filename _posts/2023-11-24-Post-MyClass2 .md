@@ -26,6 +26,14 @@ title: bing.com روند تصویر سازی با هوش مصنوعی در سا�
 
 ![my second image creating](../assets/images/second image.jpg)
 
+<br>
+<br>
+
+-
+-
+-
+![my third image creating](../assets/images/third image.jpg)
+
 
 
 
