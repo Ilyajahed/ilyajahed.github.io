@@ -20,6 +20,12 @@ title: bing.com روند تصویر سازی با هوش مصنوعی در سا�
 -
 <br>
 <br>
+-to editing this image i wrote"river across the jungle and in this jungle the lion king creates the unity and peace among the animals "
+-
+-
+
+![my second image creating](../assets/images/second image.jpg)
+
 
 
 
