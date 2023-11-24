@@ -29,7 +29,7 @@ title: bing.com روند تصویر سازی با هوش مصنوعی در سا�
 <br>
 <br>
 
--
+-endly, i wrote"river across the jungle and in this  bloody jungle the wild animals leaded by the lions are -fighting with the humans who are trying to  colonize the jungle"
 -
 -
 ![my third image creating](../assets/images/third image.jpg)
