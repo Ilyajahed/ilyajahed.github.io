@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 permalink: /clock/
 title: time in iran
 tags: [clock]
