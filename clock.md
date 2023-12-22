@@ -5,7 +5,7 @@ permalink: /clock/
 title: time in iran
 tags: [clock]
 modified: 12-22-2023
-comments: true
+comments: false
 ---
 
 
