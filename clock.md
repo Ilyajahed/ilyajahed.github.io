@@ -1,10 +1,10 @@
 ---
 layout: single
-author_profile: false
+author_profile: true
 permalink: /clock/
-title: time in iran
+title: clock
 tags: [clock]
-modified: 12-22-2023
+modified: 12-23-2023
 comments: false
 ---
 
