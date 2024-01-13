@@ -18,6 +18,8 @@ main:
     url: /calendar/
   - title: "clock"
     url: /clock/
+  - title: "jango_project"
+    url: /jango_project/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
