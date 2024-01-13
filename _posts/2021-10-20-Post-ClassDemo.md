@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  
+title: my friends  
 ---
 
 ## This is my classmates at school
