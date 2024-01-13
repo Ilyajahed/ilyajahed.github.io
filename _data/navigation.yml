@@ -15,7 +15,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "calender"
-    url: /mycalendar/
+    url: /calendar/
   - title: "clock"
     url: /clock/
   # - title: "About"
