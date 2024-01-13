@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /my calendar/
-title: my calendar
-tags: [my calendar]
+permalink: /calendar/
+title: calendar
+tags: [calendar]
 modified: 11-22-2023
 comments: false
 ---
