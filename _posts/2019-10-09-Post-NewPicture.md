@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: posts
 title: Test Post
 ---
@@ -18,4 +18,4 @@ People in the picture are:
 ![alt text](../assets/images/grouppic.jpg "Team Picture")
 
 ---
-**Test**: This is a test
+**Test**: This is a test -->
