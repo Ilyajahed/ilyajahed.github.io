@@ -9,7 +9,7 @@ People in the picture are:
 - hamzi
 - deyhimi
 - Me
--else
+- else
 
 [my favorite website](http://www.google.com)
 
@@ -18,4 +18,4 @@ People in the picture are:
 ![alt text](../assets/images/grouppic.jpg "Team Picture")
 
 ---
-**Test**: This is a test
+
