@@ -12,13 +12,14 @@ comments: false
 ## starting the project
 -first act in making my project is to handle this project in the python and first act in this part is to know how to make a simple picture in python with its libraries.
 
+
+-this is a screenshot of what we have firstly done for this project:
 ![this is a screenshot of what we have firstly done for this project:](/assets/images/fist attempt.png)
 
 
-<!-- -and this is the code that we have written:
+-and this is the code that we have written:
 
-- url: /assets/images/1.jpg
-    image_path: /assets/images/code_first.png -->
+![and this is the code that we have written:](/assets/images/code_first.png)
 
 
 
