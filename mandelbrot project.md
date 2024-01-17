@@ -22,6 +22,14 @@ comments: false
 ![and this is the code that we have written:](/assets/images/code_first.png)
 
 
+-after watching teacher's lessons this was the first outcome i had with python:
+<video width="320" height="240" controls>
+    <source src="/videos/first.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
+
 
 
 
