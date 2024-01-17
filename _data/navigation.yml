@@ -2,8 +2,8 @@
 main:
   - title: "CV"
     url: /cv/
-  - title: "test"
-    url: /test/
+  - title: "mandelbrot"
+    url: /mandelbrot/
   - title: "Friends"
     url: /friends/
   - title: "Links"
