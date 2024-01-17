@@ -30,6 +30,10 @@ comments: false
 
 
 
+-and now its the time to attach it with a music with sonic.pi
+
+
+
 
 
 
